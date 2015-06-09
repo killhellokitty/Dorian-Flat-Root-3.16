@@ -1625,7 +1625,7 @@ GtkComboBox {
   border-radius: 7px 7px 0 0;
   background-color: transparent;
   background-image: linear-gradient(to bottom, mix(shade(@theme_base_color, 1.28),#ff0000,0.2));
-  box-shadow: inset 0 -1px shade(@theme_base_color, 1.38), inset 0 1px #787878; }
+  box-shadow: inset 0 -1px shade(@theme_base_color, 1.38), inset 0 1px #585858; }
   .titlebar:backdrop,
   .header-bar:backdrop {
     border-color: transparent;
